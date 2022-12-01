@@ -1,0 +1,4 @@
+valgrind-out.txt 
+example_c.o 
+example_cpp.o
+build/
