@@ -4,7 +4,7 @@ HEADER	= pidLock.hpp
 OUT	= build/libPidLock.a
 CC	= g++
 AR	= ar
-FLAGS 	= -c -g -Wall -D_GLIBCXX_USE_CXX11_ABI=1
+FLAGS 	= -c -Wall -D_GLIBCXX_USE_CXX11_ABI=1
 LFLAGS = 
 
 all: $(OBJS)
